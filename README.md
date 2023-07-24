@@ -9,7 +9,7 @@ Conceitos fundamentais de Java, desde sua origem histórica até a criação do 
 [Desafio - Controle de Acesso](https://github.com/PedroPA94/desafios-java/tree/main/acc-java-010-exercises-controle-de-acesso)
 
 ### 2 - Orientação a objetos :heavy_check_mark:
-Abstração, classes, herança, polimorfismo, interfaces e classes abstrata.
+Abstração, classes, herança, polimorfismo, interfaces e classes abstrata.\
 [Desafio - Sistema de votação](https://github.com/PedroPA94/desafios-java/tree/main/acc-java-010-exercises-sistema-de-votacao)
 
 ### 3 - Manipulação de textos e arquivos :hourglass_flowing_sand:

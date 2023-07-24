@@ -8,10 +8,11 @@ O curso abrange desde o básico de Java, como variáveis e estruturas condiciona
 Conceitos fundamentais de Java, desde sua origem histórica até a criação do clássico "Hello, world!". Os tópicos incluem variáveis, estruturas condicionais e de repetição, além de uma introdução ao ambiente Eclipse.\
 [Desafio - Controle de Acesso](https://github.com/PedroPA94/desafios-java/tree/main/acc-java-010-exercises-controle-de-acesso)
 
-### 2 - Orientação a objetos :hourglass_flowing_sand:
+### 2 - Orientação a objetos :heavy_check_mark:
 Abstração, classes, herança, polimorfismo, interfaces e classes abstrata.
+[Desafio - Sistema de votação](https://github.com/PedroPA94/desafios-java/tree/main/acc-java-010-exercises-sistema-de-votacao)
 
-### 3 - Manipulação de textos e arquivos
+### 3 - Manipulação de textos e arquivos :hourglass_flowing_sand:
 Técnicas para leitura e escrita de arquivos e tratamento de Strings.
 
 ### 4 - Tratamento de erros
